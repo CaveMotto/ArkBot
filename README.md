@@ -13,7 +13,7 @@ A Discord bot for tracking ARK: Survival Evolved / Ascended players and servers 
 
 ## Hosted Instance
 
-A live instance is already running at **[arkbot.kjhyuga.com](https://arkbot.kjhyuga.com)** — you can use it directly without hosting your own.
+A live instance is already running — [click here to add it to your server](https://arkbot.kjhyuga.com). No hosting required.
 
 ## Setup
 
